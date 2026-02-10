@@ -12,6 +12,4 @@
         c = sc.nextInt();
         System.out.println(a*b*c);
     }
-
-
-}
+    }
